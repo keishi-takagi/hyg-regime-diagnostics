@@ -1,0 +1,6 @@
+numpy>=1.21
+scipy>=1.7
+statsmodels>=0.13
+ripser>=0.6
+pot>=0.9
+matplotlib>=3.4   # required only for --figures
